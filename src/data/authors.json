@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Helly Dayana",
+        "image": "./images/author-2.jpg",
+        "social": {
+            "facebook": "https://www.facebook.com/hellyydaya/",
+            "twitter": "https://twitter.com/hellyydaya",
+            "instagram": "https://www.instagram.com/hellyydaya/",
+            "linkedin": "https://www.linkedin.com/in/hellysanchez/",
+            "youtube": "https://youtube.com"
+        },
+        "tagline": "This is your source of love",
+        "bio": "Soy muy bonita"
+    }
+]
